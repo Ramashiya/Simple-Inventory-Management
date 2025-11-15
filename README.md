@@ -1,2 +1,10 @@
-# Simple-Inventory-Management
-A beginner-friendly C# console app that manages inventory using List and Tuples. Supports Add, Remove, Update, and View operations.
+# Simple Inventory Management (C# Console App)
+
+A beginner-friendly C# project that manages inventory using Tuples and Lists.
+
+## Features
+- Add items
+- Remove items
+- Update quantity and price
+- View all items with total value
+- Validates user input
